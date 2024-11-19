@@ -1,6 +1,6 @@
 # ansible-role-nexus
 
-repository: `git@gitlab.com:lamtech-tooling/ansible-roles/ansible-role-nexus.git`
+repository: `git@github.com:emmanuelcodes2020/ansible-role-nexus-vars.git`
 
 **Description:**
 The aim of this project to set up Nexus to store artifacts.
