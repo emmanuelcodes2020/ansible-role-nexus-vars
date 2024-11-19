@@ -14,7 +14,7 @@ The aim of this project to set up Nexus to store artifacts.
 2. Install Ansible core
 3. Install Ansible Modules
 
-Configurations - Define the following
+Configurations - Define the following files
 1. aws.ec2.yml
 2. requirements.yml
 3. site.yml
